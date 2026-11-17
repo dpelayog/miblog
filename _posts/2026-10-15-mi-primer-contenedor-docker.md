@@ -15,4 +15,4 @@ docker run -d --name web -p 8080:80 nginx
 curl -I http://localhost:8080
 ```
 ## Cómo funciona
-(insertar imágen docker-arquitectura.png)
+![Foto arquitectura docker]({{ "/assets/images/docker-arquitectura.png" | relative_url }})
